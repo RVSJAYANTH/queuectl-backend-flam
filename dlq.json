@@ -1,0 +1,20 @@
+[
+  {
+    "id": "failjob",
+    "command": "invalidcommand",
+    "state": "dead",
+    "attempts": 4,
+    "max_retries": 3,
+    "created_at": "2025-11-10T06:06:18.501Z",
+    "updated_at": "2025-11-10T06:06:18.511Z"
+  },
+  {
+    "id": "failjob",
+    "command": "invalidcommand",
+    "state": "dead",
+    "attempts": 5,
+    "max_retries": 3,
+    "created_at": "2025-11-10T06:29:13.478Z",
+    "updated_at": "2025-11-10T06:29:13.488Z"
+  }
+]
